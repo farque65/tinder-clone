@@ -1,4 +1,4 @@
-## Tinder Clone
+## [Tinder Clone](https://tinder-clone-29825.firebaseapp.com/)
 
 This is a clone of the amazon website with basic functionality that includes:
 - Tinder Card Swiping
