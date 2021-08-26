@@ -19,9 +19,3 @@ This is a clone of the amazon website with basic functionality that includes:
 ### `Start App`
 
 npm start
-
-### `Resource for this project`
-
-The following videos created by the youtube channel [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) were used to create this project
-
-[Video Link](https://youtu.be/DQfeB_FKKkc)
